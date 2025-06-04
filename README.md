@@ -1,1 +1,1 @@
-# cssaproj
+# This is the GitHub repository for all the relevant files for our project for the Computational Social Science Analysis course. I hope you enjoy going through them and thank you for checking it out! ^.^ Please let us know if there is anything missing or something you would like to see improved.
